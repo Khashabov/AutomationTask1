@@ -1,0 +1,8 @@
+org/example/Main.class
+com/orangehrmlive/automation/pageObjects/BasePage.class
+com/orangehrmlive/automation/pageObjects/DashboardPage.class
+com/orangehrmlive/automation/pageObjects/LoginPage.class
+com/orangehrmlive/automation/utils/TestDataGenerator.class
+com/orangehrmlive/automation/config/ConfigReader.class
+com/orangehrmlive/automation/pageObjects/AddEmployeePage.class
+com/orangehrmlive/automation/pageObjects/EmployeeSearchPage.class
